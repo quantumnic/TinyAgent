@@ -1,0 +1,9 @@
+.pio/
+.vscode/
+build/
+*.o
+*.a
+*.so
+*.dylib
+.DS_Store
+Thumbs.db
