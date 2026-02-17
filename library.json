@@ -1,0 +1,27 @@
+{
+    "name": "TinyAgent",
+    "version": "0.1.0",
+    "description": "Lightweight AI Agent Framework for ESP32/Arduino - Run autonomous AI agents on microcontrollers",
+    "keywords": "esp32, arduino, ai, agent, llm, iot, react, openai, ollama, mqtt, gpio",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/redbasecap-buiss/TinyAgent.git"
+    },
+    "authors": [
+        {
+            "name": "Nicola Spieser",
+            "url": "https://github.com/redbasecap-buiss",
+            "maintainer": true
+        }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/redbasecap-buiss/TinyAgent",
+    "frameworks": ["arduino"],
+    "platforms": ["espressif32"],
+    "dependencies": {
+        "bblanchon/ArduinoJson": "^7.0.0"
+    },
+    "build": {
+        "srcFilter": ["+<*>", "-<tools/>"]
+    }
+}
