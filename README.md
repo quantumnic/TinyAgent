@@ -7,8 +7,8 @@
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License"></a>
   <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/platform-ESP32%20%7C%20Arduino-green.svg" alt="Platform"></a>
-  <a href="https://registry.platformio.org/libraries/redbasecap-buiss/TinyAgent"><img src="https://img.shields.io/badge/version-0.1.0-orange.svg" alt="Version"></a>
-  <a href="https://github.com/redbasecap-buiss/TinyAgent/issues"><img src="https://img.shields.io/github/issues/redbasecap-buiss/TinyAgent.svg" alt="Issues"></a>
+  <a href="https://registry.platformio.org/libraries/quantumnic/TinyAgent"><img src="https://img.shields.io/badge/version-0.1.0-orange.svg" alt="Version"></a>
+  <a href="https://github.com/quantumnic/TinyAgent/issues"><img src="https://img.shields.io/github/issues/quantumnic/TinyAgent.svg" alt="Issues"></a>
 </p>
 
 ---
@@ -72,7 +72,7 @@ platform = espressif32
 board = esp32dev
 framework = arduino
 lib_deps =
-    redbasecap-buiss/TinyAgent
+    quantumnic/TinyAgent
     bblanchon/ArduinoJson@^7.0.0
 ```
 

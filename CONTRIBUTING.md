@@ -5,7 +5,7 @@ Thanks for your interest in contributing! 🎉
 ## How to Contribute
 
 ### Bug Reports & Feature Requests
-- Use [GitHub Issues](https://github.com/redbasecap-buiss/TinyAgent/issues)
+- Use [GitHub Issues](https://github.com/quantumnic/TinyAgent/issues)
 - Check existing issues before creating a new one
 - Use the issue templates provided
 

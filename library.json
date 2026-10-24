@@ -5,17 +5,17 @@
     "keywords": "esp32, arduino, ai, agent, llm, iot, react, openai, ollama, mqtt, gpio",
     "repository": {
         "type": "git",
-        "url": "https://github.com/redbasecap-buiss/TinyAgent.git"
+        "url": "https://github.com/quantumnic/TinyAgent.git"
     },
     "authors": [
         {
             "name": "Nicola Spieser",
-            "url": "https://github.com/redbasecap-buiss",
+            "url": "https://github.com/quantumnic",
             "maintainer": true
         }
     ],
     "license": "MIT",
-    "homepage": "https://github.com/redbasecap-buiss/TinyAgent",
+    "homepage": "https://github.com/quantumnic/TinyAgent",
     "frameworks": ["arduino"],
     "platforms": ["espressif32"],
     "dependencies": {
